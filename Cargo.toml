@@ -1,0 +1,11 @@
+[package]
+name = "zco_experiments"
+version = "0.1.0"
+authors = ["superfunc"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lazy_static = "*"
+rand = "*"
